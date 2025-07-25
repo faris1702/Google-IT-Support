@@ -7,3 +7,5 @@ This course is good for those who are trying to get into IT and have no backgrou
 - System Administration and IT Infrastructure Services
 - IT Security: Defence against the digital dark arts
 
+## My Certificate
+![Cert](Google_IT_Support.pdf)
