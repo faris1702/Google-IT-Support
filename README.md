@@ -4,6 +4,7 @@ This course is good for those who are trying to get into IT and have no backgrou
 ## Topics Covered
 - Technical Support Fundamentals
 - The Bits and Bytes of Computer Networking
+- Operating Systems and You: Becoming a Power User
 - System Administration and IT Infrastructure Services
 - IT Security: Defence against the digital dark arts
 
