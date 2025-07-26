@@ -8,4 +8,4 @@ This course is good for those who are trying to get into IT and have no backgrou
 - IT Security: Defence against the digital dark arts
 
 ## My Certificate
-![Cert](Google_IT_Support.png)
+![Cert](Google_IT_Support-1.png)
